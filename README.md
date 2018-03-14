@@ -1,5 +1,5 @@
-# deepak61900.github.io
+# cotzero.github.io
 ad page
-Open https://deepak61900.github.io/
-this webpage was modified for adgo. A marketing startup by an alumnus
+Open https://cotzero.github.io/
+This webpage was modified for cotzero. An electric vehicle startup by IITR alumnui.
 The website is mobile compatible.
